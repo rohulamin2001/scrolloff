@@ -1,0 +1,81 @@
+
+/* system two */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior:smooth;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    background:linear-gradient(#000000c0,rgba(0, 0, 0, 0.72)),url('image/entrepreneur.jpg') no-repeat fixed center;
+}
+.side-bar{
+    width: 200px;
+    height:100%;
+    background-color: #0e157031;
+    color: white;
+    font-size: 1.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+}
+.side-bar>ul>li{
+    list-style-type: none;
+    padding: 2em 0 0 0;
+}
+.side-bar>ul>li>a{
+    text-decoration: none;
+    color: white;
+}
+.same{
+    margin: 0 0 0 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 100vh;
+    font-size: 2em;
+    text-shadow: 0 0 10px;
+}
+.second{
+    width: 20em;
+    text-align: center;
+    height: auto;
+}
+
+::-webkit-scrollbar{
+    width: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
